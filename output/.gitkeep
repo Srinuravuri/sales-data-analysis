@@ -1,0 +1,2 @@
+# This folder holds generated outputs (dashboard.html, summary_report.md, charts).
+# Run `python scripts/analysis.py` to regenerate everything.
